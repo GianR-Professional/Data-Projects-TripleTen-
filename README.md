@@ -10,3 +10,4 @@ Some of these projects include:
 * **Sprint 12 Project** — This was another project for TripleTen, in which I developed a model for a car company looking to creat an app to attract customers.
 * **Sprint 13 Project** — This was another project for TripleTen, in which I developed a model for a taxi service looking to predict orders for the next hour at any given moment.
   
+The others will slowly be added as time goes on, to provide a complete picture of my progress.
